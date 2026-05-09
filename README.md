@@ -9,9 +9,9 @@ I am a **Computer Science student from UCSTgi** with a passion to be an outstand
 - **Tools:** GitHub, MySQL, Eclipse .
 - **Core Knowledge:** Computer Architecture, Database Management Systems, Data Structure and Software Engineering.
 
-### 📂Projects
-- **Online Learning Class:** An html and css project announcing online language study site.
-- **English Chat Hours:** Organizing English interesters and incerasing university's activities.
+
+### Extracurricular Learning
+- **RIG_Community_DE_Scholarship** 
 
 ### 📬 Contacts
 - how to reach me => winhninhlaing@ucstgi.edu.mm
