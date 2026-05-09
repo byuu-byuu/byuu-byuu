@@ -14,4 +14,4 @@ I am a **Computer Science student from UCSTgi** with a passion to be an outstand
 - **RIG_Community_DE_Scholarship** 
 
 ### 📬 Contacts
--**how to reach me**=> winhninhlaing@ucstgi.edu.mm
+**how to reach me**=> winhninhlaing@ucstgi.edu.mm
