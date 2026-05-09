@@ -1,4 +1,4 @@
-# Mingalarpr! I'm Win Hnin 👋 
+### Mingalarpr! I'm Win Hnin 👋 
 
 I am a **Computer Science student from UCSTgi** with a passion to be an outstanding learner and skilled developer.
 
@@ -6,7 +6,7 @@ I am a **Computer Science student from UCSTgi** with a passion to be an outstand
 
 ### 🛠 Tech Stack
 - **Languages:** Java, C++, SQL, HTML, CSS.
-- **Tools:** GitHub, MySQL, Eclipse .
+- **Tools:**     GitHub, MySQL, Eclipse .
 - **Core Knowledge:** Computer Architecture, Database Management Systems, Data Structure and Software Engineering.
 
 
@@ -14,4 +14,4 @@ I am a **Computer Science student from UCSTgi** with a passion to be an outstand
 - **RIG_Community_DE_Scholarship** 
 
 ### 📬 Contacts
-- how to reach me => winhninhlaing@ucstgi.edu.mm
+-**how to reach me**=> winhninhlaing@ucstgi.edu.mm
